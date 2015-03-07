@@ -1,2 +1,2 @@
-# gurus-fallout-random-encounters
-GUPRS Fallout random encounter generator.
+# GURPS-FRE
+Random encounter generator for GUPRS Fallout.
